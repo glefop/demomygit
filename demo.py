@@ -1,2 +1,4 @@
 print("Hello")
-print("Welcome Glefop")
+print("Welcome from Glefop")
+
+print("Bye")
